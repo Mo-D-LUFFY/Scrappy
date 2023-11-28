@@ -21,7 +21,7 @@ const Navbar = () => {
             />
 
             <p className='nav-logo'>
-              Scrap<span className='text-primary'>py</span>
+              Scra<span className='text-primary'>pp</span>y
             </p>
         </Link>
         <div className='flex items-center gap-5'>

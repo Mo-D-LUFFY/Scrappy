@@ -19,7 +19,7 @@ const Home = () => {
               </p>
               <h1 className='head-text'>
                 Unleash the Power of  
-                <span className='text-primary'> PriceWise</span>
+                <span className='text-primary'> Scrappy</span>
               </h1>
               <p className='mt-6'>
                 Powerful, self-serve product and growth
